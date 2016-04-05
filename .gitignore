@@ -1,0 +1,8 @@
+[Dd]ebug/
+[Rr]elease/
+heap_sort_openmp/[Dd]ebug/
+heap_sort_openmp/[Rr]elease/
+*/*.vcxproj*
+ipch/
+*.sdf
+*.plog
